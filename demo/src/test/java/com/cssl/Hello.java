@@ -18,5 +18,7 @@ public class Hello {
         h1.sayHi();
         Hello h2 = new Hello("jack",33);
         h2.sayHi();
+        Hello h3 = new Hello("admin",44);
+        h3.sayHi();
     }
 }
